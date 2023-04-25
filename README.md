@@ -41,8 +41,10 @@ $ ./exe.sh
 ```
 
 ## Vidéo Démo
+<video src="https://user-images.githubusercontent.com/84486806/234354713-eb26253e-bc97-4df2-8ca0-dcc876b867da.mp4" controls>
 
-https://user-images.githubusercontent.com/84486806/234354713-eb26253e-bc97-4df2-8ca0-dcc876b867da.mp4
+
+
 
 
 
